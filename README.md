@@ -2,4 +2,4 @@
 Exercise using github 
 
 bla bla bla
-branch from master
+branches merged
